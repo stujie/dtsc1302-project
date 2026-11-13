@@ -24,4 +24,5 @@ This is where I saved the example reports they gave us earlier in class.
 This is where any exploratory data analysis I do is going to go.
 | File | Description | Purpose |
 | --- | --- | --- |
-| eda.ipynb | My personal file where I've been exploring the data. | Better understand the variables in the dataset, improve readability, see any obvious trends/patterns to determine what direction to pose our research question.|
+| cleaning.ipynb | My attempt at cleaning the data & reasoning | Better understand the variables in the dataset, improve readability, and remove redundant columns. |
+| eda.ipynb | My personal file where I've been exploring the data. | Statistic summaries, charts/graphs, and a look into any trends/patterns.|
